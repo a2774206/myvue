@@ -1,8 +1,21 @@
 # vuex
 
-> A Vue.js project
+> 初始化vue脚手架
+
+####目录
+--components
+  --index
+    --index.vue   //路由页面
+    --indexChild.vue...
+  --public
+--store  //vuex
+--static //filter.js(过滤)，interface.js(api接口)，public.js（全局函数变量）
 
 ## Build Setup
+
+ ###1.npm install ppvue || npm install lpp
+ 
+ ###2.git clone https://github.com/a2774206/myvue.git
 
 ``` bash
 # install dependencies
